@@ -2,7 +2,7 @@
 # Create a simple addition q with those two numbers
 # Check answer
 
-class question
+class Question
   attr_reader :newQ, :ans
 
   def initialize
